@@ -1,0 +1,231 @@
+#########################################                                      
+  _____________________________________________________________________________________ 
+ |_____________________________________________________________________________________|
+ 
+  _____________________________________       _________________________________________
+ |_____________________________________|     |_________________________________________| 
+  _| || |_| \ | | |  | | |    | |    | |     | \ \    / /_   _|/ ____|_   _/ __ \| \ | | 
+ |_  __  _|  \| | |  | | |    | |    | |     | |\ \  / /  | | | (___   | || |  | |  \| | 
+  _| || |_| . ` | |  | | |    | |    | |     | | \ \/ /   | |  \___ \  | || |  | | . ` | 
+ |_  __  _| |\  | |__| | |____| |____| |     | |  \  /   _| |_ ____) |_| || |__| | |\  | 
+   |_||_| |_| \_|\____/|______|______| |     | |   \/   |_____|_____/|_____\____/|_| \_| 
+                                     | |     | |                                         
+                                     |_|     |_|
+                                         
+#########################################
+
+#NULL\\VISION, A MINECRAFT RESOURCE PACK
+BY NULLTROOPER
+
+#########################################
+
+CURRENT VERSION
+
+2016.04.10
+
+#########################################
+
+PREVIOUS VERSIONS
+
+Old versions of this pack can be found in the following locations:
+
+http://www.mediafire.com/folder/hek1q61zgz8zz/Dragon's_Eyes
+https://github.com/t3hPhazonDragon/Dragon-s-Eyes
+https://github.com/nulltrooper/Halfslats-Vision
+
+Refer to the CHANGELOG. Not all versions are listed; this is intentional. Currently hosted versions are ones that were publicly released.
+
+#########################################
+
+CHANGELOG
+
+2016.04.10 (1.8.2)
+* Changed version numbering system
+* Updated brewing stand GUI
+* Updated inventory GUI
+* Colored outlines around ores
+* yiyoek's wool texture on sheep
+
+1.8.1
+* Updated for Minecraft 1.9 compatability
+* Added Nukertallon's Command Block textures
+* Added fzy_'s Command Block models to customization
+* Reorganized customization folder for easy sort & location
+* Changed crosshair
+* More custom death messages
+* Added Calvinnok's Better Beet Pack
+
+1.8.0
+* Changed name from DRAGON'S EYES to #NULL\\VISION
+* Changed menu textures
+* Changed hot bar selection texture
+* Added 'blockstates' and 'models' folders
+* Block model for sugar cane
+* Alternate textures for ladders
+* Replaced glass textures with Plast's
+* Fixed Emerald Block texture
+* Custom Sky
+* Changed Birch Sapling leaf color to pink to match colormap
+* Slightly shortened double tall plants
+* Changed click.ogg sound
+* Outline around obsidian block to make it easier to see breaking animation
+* Golden-colored final wheat stage
+* Redder jungle wood
+* Redstone dust tweaks
+* GUI edits
+* Mob Spawner texture changes
+* Fixed crosshair texture
+* Tweaked Resource Pack Arrow buttons
+* Square Top Left banner is now the Stark Direwolf
+* Slight particle edits
+
+1.7.1
+* Changed options background texture
+* Fixed breaking animation
+* Cauldron texture
+* Armor status changed from gold -> diamond
+* Simple EXP/jump bars
+
+1.7.0
+* Update to 1.8
+* Bed texture edited (item, not block)
+* Changed workbench texture
+
+1.6.6
+* Rainbow breaking animation
+* Silly ninja gear armor in customizations
+* Wooden/Stone swords -> Katana textures
+* Melon hunger squares
+* ChOcOlAtE cAkE
+* Empty armor spaces
+* GUI edits
+* Custom axes (kept animated diamond and gold)
+* Custom paintings
+
+1.6.5
+* Removed emerald texture
+* Pickaxe texture changes
+* Recolored portal blocks
+* Recolored water
+* Particle edits
+
+1.6.4
+* Slight bow edits
+* Emerald texture changed, more star-like
+* Smoothed out emerald block texture
+* Added sounds from SnowSong
+
+1.6.3
+* Updated pack to 1.7, adding missing textures
+* Diamond katana to diamond sword
+* Glass bottle edits
+
+1.6.2
+* Custom bed texture
+* Removed anvil, hopper, and cauldron textures
+
+1.6.1
+* Renamed Ladder to Jetpack
+* Slight edit to glass textures
+* Connected textures support for glass
+* Edit to lever texture
+* Brightened anvil texture
+* Brightened hopper texture
+* Brightened cauldron texture
+
+1.6.0
+* Fixed sounds
+* Default title background changed to Calamity by Moesh
+
+1.5.5
+* Flipped shovels back to original position
+
+1.5.4
+* Major GUI overhaul. Old GUI is still in Customizations
+* Rotated shovels 90 degrees counter clockwise
+
+1.5.3
+* Slight GUI edits
+
+1.5.2
+* Slight edit to Trapped Chest texture
+* Slight edit to inside of Ender Chest texture
+* Changed crosshairs
+* More text changing
+* Changed bow texture when drawn
+
+1.5.1
+* Removed old rose texture
+* Removed old wood textures
+* Modification to trapdoor texture
+* More custom text (sleeping at night, etc)
+* Fixed stained glass textures
+* Changed CC License too account for customizations
+* Added extra color to menu options
+
+1.5
+* Updated to 1.7
+* Custom main title background set as the OCN KoTH map, Equinox
+* Added customizations folder for extras
+* Added font "Hard Left" to customizations folder
+* Changed main title background to pvp map, Hoodoo
+* Added folders for Equinox, Hoodoo, and Calamity under ./customizations/backgrounds
+* Clear armor textures added as customization options
+* 32x font customization
+* Custom iron bar texture
+* Changed pack info
+* Fancy color stuff
+* Moved breaking animation to center
+* Brighter mossy cobblestone
+
+1.4
+* More transparent ice texture
+* Preliminary font changes
+* Changed splash sounds
+* Added custom rain sounds
+* Fixed beacon container texture (unable to tell what kind of buff was selected while in the GUI)
+* Removed custom rain sounds because of lag that happened when it rained
+* Brighter red on crafting table texture & decorative tassels
+* Edited border on breaking animation
+* Fabric color on enchanting table changed to blue
+* Changed color of enchanting table book to red w/ gold details
+* Tweaked dead bush texture
+* Custom main title panorama set as the OCN KoTH map, Equinox
+
+1.3
+* Custom enchantment shine
+* Darker bedrock texture
+* Changed official name from "Phaz's PVP Pack" to "Dragon's Eyes"
+* Changed name of Wood and Stone Swords to Broadswords
+* Changed name of Iron, Gold, and Diamond Swords to Katanas
+* Changed pack icon from text to pic of pirate ship
+* Cacti are more green-brown than bright green
+* Redstone dust texture to be more obvious and "solid"
+
+1.2
+* Changed sword textures to European Broadswords/Japanese Katanas with animated shine (Wood & Stone, Iron & Gold & Diamond)
+* Changed Gold and Diamond Axe to have animated tassels
+* Arrows (item and entity) have green feathers
+* Changed bow textures (slimmer, different colors, feathers on the arrows
+* Critical hit particles are dragon heads
+* Sharpness particles are hearts
+
+1.1
+* Slight changes made to the timing and position of the breaking animation
+* More transparent pumpkin blur
+* Fire texture is more transparent while on fire
+
+1.0
+* Clear GUI textures with custom icons/colors where applicable
+* Clear nether portal texture
+* More blue-green water color. Also slightly transparent
+* Bow changes color depending on strength of the shot (yellow to orange to red)
+* Glass is clear save a 1 pixel outline (blocks and panes)
+* Ice is one solid color of light blue
+* Colored menu titles
+* Diamond items have cyan text
+* Redstone repeater and comparator have a top-down item view
+* Crosshair is a modified square
+* Custom water splash and click sounds
+* Simple, custom pack icon (pack.png)
+* Custom splash text

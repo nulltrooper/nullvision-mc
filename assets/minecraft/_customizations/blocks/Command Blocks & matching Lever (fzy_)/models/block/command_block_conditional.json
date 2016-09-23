@@ -1,0 +1,9 @@
+{
+    "parent": "block/cmd",
+    "textures": {
+        "particle": "blocks/command_block",
+        "main": "blocks/command_block",
+        "screen": "blocks/conditional_screen",
+		"side": "blocks/command_block_side"
+    }
+}
