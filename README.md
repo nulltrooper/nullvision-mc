@@ -1,22 +1,22 @@
 ***
 ```                                                                                  
-  _____________________________________________________________________________________ 
- |_____________________________________________________________________________________|
+  ______________________________________________________________________________ 
+ |______________________________________________________________________________|
  
-  _____________________________________       _________________________________________
- |_____________________________________|     |_________________________________________| 
-  _| || |_| \ | | |  | | |    | |    | |     | \ \    / /_   _|/ ____|_   _/ __ \| \ | | 
- |_  __  _|  \| | |  | | |    | |    | |     | |\ \  / /  | | | (___   | || |  | |  \| | 
-  _| || |_| . ` | |  | | |    | |    | |     | | \ \/ /   | |  \___ \  | || |  | | . ` | 
- |_  __  _| |\  | |__| | |____| |____| |     | |  \  /   _| |_ ____) |_| || |__| | |\  | 
-   |_||_| |_| \_|\____/|______|______| |     | |   \/   |_____|_____/|_____\____/|_| \_| 
+  _____________________________________       __________________________________
+ |_____________________________________|     |__________________________________| 
+  _| || |_| \ | | |  | | |    | |    | |     | \ \    / / ____|_   _/ __ \| \ | |
+ |_  __  _|  \| | |  | | |    | |    | |     | |\ \  / / (___   | || |  | |  \| |
+  _| || |_| . ` | |  | | |    | |    | |     | | \ \/ / \___ \  | || |  | | . ` |
+ |_  __  _| |\  | |__| | |____| |____| |     | |  \  /  ____) |_| || |__| | |\  |
+   |_||_| |_| \_|\____/|______|______| |     | |   \/  |_____/|_____\____/|_| \_|
                                      | |     | |                                         
                                      |_|     |_|
 									 
 ```                                         
 ***
 
-**#NULL\\VISION, A MINECRAFT RESOURCE PACK
+**#NULL\\VSION, A MINECRAFT RESOURCE PACK
 BY NULLTROOPER
 
 1.10+ CUSTOMIZED DEFAULT FOR PVP AND GENERAL USE. INSPIRED BY PLAST AND THREE_TWO.
@@ -42,7 +42,7 @@ CHANGELOG CAN BE FOUND IN [CHANGELOG.TXT](/CHANGELOG.txt)
 
 ###CURRENT VERSION
 
-	2016.04.10
+	2016.10.10
 
 ***
 
@@ -144,7 +144,7 @@ Various methods of contact include:
 
 ###LICENSING
 
-#NULL\\VISION is released under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US) license.
+#NULL\\VSION is released under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported (http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US) license.
 
 What this means is you are free to share this pack with your friends, family, your neighbors, etc, but you -CANNOT- claim this pack as your own, use this for commercial purposes, or alter, transform, or build upon this pack.
 
